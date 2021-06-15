@@ -1,0 +1,2 @@
+# PiplupBot
+Piplup Discord Bot
